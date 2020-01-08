@@ -1,0 +1,1 @@
+This repository contains files for the Helpdesk project back-end API interface. Written in ASP.NET with an Entity Framework 6 structure. In order to run download the repository, open Visual Studio and run the "Helpdesk" project. 
